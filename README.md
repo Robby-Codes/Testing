@@ -1,2 +1,2 @@
 # Testing
-Testing GitHub and Git on command line.
+Testing GitHub repository and Git on command line.
